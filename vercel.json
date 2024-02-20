@@ -1,0 +1,8 @@
+{
+	"crons": [
+		{
+			"path": "/api/quoter",
+			"schedule": "*/10 * * * *"
+		}
+	]
+}
